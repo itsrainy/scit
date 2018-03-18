@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://steelcityimprov.com/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+
+	<channel>
+		<title>Steel City Improv</title>
+		<atom:link href="http://steelcityimprov.com/feed/podcast" rel="self" type="application/rss+xml" />
+		<link>http://steelcityimprov.com/</link>
+		<description>Good at Improv, Better at Life</description>
+		<lastBuildDate>Sat, 10 Mar 2018 02:12:50 +0000</lastBuildDate>
+		<language>en-US</language>
+		<copyright>© 2016 Steel City Improv</copyright>
+        <itunes:subtitle>Good at Improv, Better at Life</itunes:subtitle>
+		<itunes:author>Steel City Improv</itunes:author>
+        		<googleplay:author>Steel City Improv</googleplay:author>
+		<googleplay:email>info@steelcityimprov.com</googleplay:email>
+		<itunes:summary>Good at Improv, Better at Life</itunes:summary>
+		<googleplay:description>Good at Improv, Better at Life</googleplay:description>
+		<itunes:owner>
+			<itunes:name>Steel City Improv</itunes:name>
+			<itunes:email>info@steelcityimprov.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>yes</itunes:explicit>
+		<googleplay:explicit>Yes</googleplay:explicit>
+				<itunes:category text="Comedy">
+			<itunes:category text="Performing Arts"></itunes:category>
+		</itunes:category>
+	
+		<item>
+            <title>Improvised New York &#8211; Episode 8 &#8211; &#8220;Improv as Liberal Arts with Professor Wells&#8221;</title>
+            <link>http://steelcityimprov.com/podcast/improvised-new-york-episode-8-improv-liberal-arts-professor-wells/</link>
+            <pubDate>Tue, 03 May 2016 05:45:56 +0000</pubDate>
+            <dc:creator>Justin Zell</dc:creator>
+            <guid isPermaLink="false">http://steelcityimprov.com/?post_type=podcast&#038;p=5245</guid>
+            <description><![CDATA[This week, guest host, Phil Wells and Justin discuss Improv in a modern Liberal Arts setting and the cliffs of Washington Square Park.  Originally posted on 9/3/2009.]]></description>
+            <itunes:subtitle><![CDATA[This week, guest host, Phil Wells and Justin discuss Improv in a modern Liberal Arts setting and the cliffs of Washington Square Park.  Originally posted on 9/3/2009.]]></itunes:subtitle>
+                                                            <content:encoded><![CDATA[<p>This week, guest host, Phil Wells and Justin discuss Improv in a modern Liberal Arts setting and the cliffs of Washington Square Park.  Originally posted on 9/3/2009.</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p>This week, guest host, Phil Wells and Justin discuss Improv in a modern Liberal Arts setting and the cliffs of Washington Square Park.  Originally posted on 9/3/2009.</p>
+]]></itunes:summary>
+            <googleplay:description><![CDATA[<p>This week, guest host, Phil Wells and Justin discuss Improv in a modern Liberal Arts setting and the cliffs of Washington Square Park.  Originally posted on 9/3/2009.</p>
+]]></googleplay:description>
+                        <itunes:image href="http://steelcityimprov.com/wp-content/uploads/phil_coffee1.jpg"></itunes:image>
+            <googleplay:image href="http://steelcityimprov.com/wp-content/uploads/phil_coffee1.jpg"></googleplay:image>
+                        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/steelcityimprov.com/podcast-download/5245/improvised-new-york-episode-8-improv-liberal-arts-professor-wells.mp3" length="32359941" type="audio/mpeg"></enclosure>
+            <itunes:explicit>clean</itunes:explicit>
+            <googleplay:explicit>No</googleplay:explicit>
+            <itunes:block>no</itunes:block>
+            <googleplay:block>no</googleplay:block>
+            <itunes:duration>1:07:54</itunes:duration>
+            <itunes:author>Justin Zell</itunes:author>
+		</item>
+		<item>
+            <title>Improvised New York &#8211; Episode 7 &#8211; Del Close Marathon, etc</title>
+            <link>http://steelcityimprov.com/podcast/improvised-new-york-episode-7-del-close-marathon-etc/</link>
+            <pubDate>Tue, 03 May 2016 05:10:48 +0000</pubDate>
+            <dc:creator>Justin Zell</dc:creator>
+            <guid isPermaLink="false">http://steelcityimprov.com/?post_type=podcast&#038;p=5242</guid>
+            <description><![CDATA[This week, Elizabeth discuss Mad Men, Del Close Marathon 11, and humidity! Originally posted on 8/20/2009.]]></description>
+            <itunes:subtitle><![CDATA[This week, Elizabeth discuss Mad Men, Del Close Marathon 11, and humidity! Originally posted on 8/20/2009.]]></itunes:subtitle>
+                                                            <content:encoded><![CDATA[<p id="firstHeading" class="firstHeading" lang="en">This week, Elizabeth discuss Mad Men, Del Close Marathon 11, and humidity! Originally posted on 8/20/2009.</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p id="firstHeading" class="firstHeading" lang="en">This week, Elizabeth discuss Mad Men, Del Close Marathon 11, and humidity! Originally posted on 8/20/2009.</p>
+]]></itunes:summary>
+            <googleplay:description><![CDATA[<p id="firstHeading" class="firstHeading" lang="en">This week, Elizabeth discuss Mad Men, Del Close Marathon 11, and humidity! Originally posted on 8/20/2009.</p>
+]]></googleplay:description>
+                        <itunes:image href="http://steelcityimprov.com/wp-content/uploads/dcm11.jpg"></itunes:image>
+            <googleplay:image href="http://steelcityimprov.com/wp-content/uploads/dcm11.jpg"></googleplay:image>
+                        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/steelcityimprov.com/podcast-download/5242/improvised-new-york-episode-7-del-close-marathon-etc.mp3" length="23778809" type="audio/mpeg"></enclosure>
+            <itunes:explicit>clean</itunes:explicit>
+            <googleplay:explicit>No</googleplay:explicit>
+            <itunes:block>no</itunes:block>
+            <googleplay:block>no</googleplay:block>
+            <itunes:duration>49:58</itunes:duration>
+            <itunes:author>Justin Zell</itunes:author>
+		</item>
+		<item>
+            <title>Improvised New York &#8211; Episode 6 &#8211; &#8220;Voice of Believability with Matt Donnelly&#8221;</title>
+            <link>http://steelcityimprov.com/podcast/improvised-new-york-episode-6-voice-believability-matt-donnelly/</link>
+            <pubDate>Tue, 03 May 2016 04:10:17 +0000</pubDate>
+            <dc:creator>Justin Zell</dc:creator>
+            <guid isPermaLink="false">http://steelcityimprov.com/?post_type=podcast&#038;p=5233</guid>
+            <description><![CDATA[Elizabeth and Justin welcome Matt Donnelly to the podcast. Together they discuss Matt&#8217;s improv journey, his teaching style and pretty people in improv &#8230; seriously? WTF? Originally posted on 7/29/2009. &#160; &#160;]]></description>
+            <itunes:subtitle><![CDATA[Elizabeth and Justin welcome Matt Donnelly to the podcast. Together they discuss Matt&#8217;s improv journey, his teaching style and pretty people in improv &#8230; seriously? WTF? Originally posted on 7/29/2009. &#160; &#160;]]></itunes:subtitle>
+                                                            <content:encoded><![CDATA[<p>Elizabeth and Justin welcome Matt Donnelly to the podcast. Together they discuss Matt&#8217;s improv journey, his teaching style and pretty people in improv &#8230; seriously? WTF? Originally posted on 7/29/2009.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p>Elizabeth and Justin welcome Matt Donnelly to the podcast. Together they discuss Matt&#8217;s improv journey, his teaching style and pretty people in improv &#8230; seriously? WTF? Originally posted on 7/29/2009.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></itunes:summary>
+            <googleplay:description><![CDATA[<p>Elizabeth and Justin welcome Matt Donnelly to the podcast. Together they discuss Matt&#8217;s improv journey, his teaching style and pretty people in improv &#8230; seriously? WTF? Originally posted on 7/29/2009.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></googleplay:description>
+                        <itunes:image href="http://steelcityimprov.com/wp-content/uploads/matt-donnelly3.jpg"></itunes:image>
+            <googleplay:image href="http://steelcityimprov.com/wp-content/uploads/matt-donnelly3.jpg"></googleplay:image>
+                        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/steelcityimprov.com/podcast-download/5233/improvised-new-york-episode-6-voice-believability-matt-donnelly.mp3" length="32385781" type="audio/mpeg"></enclosure>
+            <itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>Yes</googleplay:explicit>
+            <itunes:block>no</itunes:block>
+            <googleplay:block>no</googleplay:block>
+            <itunes:duration>1:07:59</itunes:duration>
+            <itunes:author>Justin Zell</itunes:author>
+		</item>
+		<item>
+            <title>Improvised New York &#8211; Episode 5 &#8211; &#8220;Peace School with Yang Miller&#8221;</title>
+            <link>http://steelcityimprov.com/podcast/improvised-new-york-episode-5-peace-school-yang-miller/</link>
+            <pubDate>Tue, 26 Apr 2016 05:30:56 +0000</pubDate>
+            <dc:creator>Justin Zell</dc:creator>
+            <guid isPermaLink="false">http://steelcityimprov.com/?post_type=podcast&#038;p=5231</guid>
+            <description><![CDATA[Elizabeth and Justin have their first guest, Yang Miller. Together they discuss Yang&#8217;s improv journey, growing up in Ohio and miming a phone call. Originally posted on 7/27/2009.]]></description>
+            <itunes:subtitle><![CDATA[Elizabeth and Justin have their first guest, Yang Miller. Together they discuss Yang&#8217;s improv journey, growing up in Ohio and miming a phone call. Originally posted on 7/27/2009.]]></itunes:subtitle>
+                                                            <content:encoded><![CDATA[<p>Elizabeth and Justin have their first guest, Yang Miller. Together they discuss Yang&#8217;s improv journey, growing up in Ohio and miming a phone call. Originally posted on 7/27/2009.</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p>Elizabeth and Justin have their first guest, Yang Miller. Together they discuss Yang&#8217;s improv journey, growing up in Ohio and miming a phone call. Originally posted on 7/27/2009.</p>
+]]></itunes:summary>
+            <googleplay:description><![CDATA[<p>Elizabeth and Justin have their first guest, Yang Miller. Together they discuss Yang&#8217;s improv journey, growing up in Ohio and miming a phone call. Originally posted on 7/27/2009.</p>
+]]></googleplay:description>
+                        <itunes:image href="http://steelcityimprov.com/wp-content/uploads/300x300.jpg"></itunes:image>
+            <googleplay:image href="http://steelcityimprov.com/wp-content/uploads/300x300.jpg"></googleplay:image>
+                        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/steelcityimprov.com/podcast-download/5231/improvised-new-york-episode-5-peace-school-yang-miller.mp3" length="34088997" type="audio/mpeg"></enclosure>
+            <itunes:explicit>clean</itunes:explicit>
+            <googleplay:explicit>No</googleplay:explicit>
+            <itunes:block>no</itunes:block>
+            <googleplay:block>no</googleplay:block>
+            <itunes:duration>1:11:31</itunes:duration>
+            <itunes:author>Justin Zell</itunes:author>
+		</item>
+		<item>
+            <title>Improvised New York &#8211; Episode 4 &#8211; &#8220;IMPROV your life&#8221;</title>
+            <link>http://steelcityimprov.com/podcast/improvised-new-york-episode-4-improv-life/</link>
+            <pubDate>Tue, 26 Apr 2016 04:12:11 +0000</pubDate>
+            <dc:creator>Justin Zell</dc:creator>
+            <guid isPermaLink="false">http://steelcityimprov.com/?post_type=podcast&#038;p=5216</guid>
+            <description><![CDATA[In this episode, our hosts discuss how improv helps other types of creative endeavors as well as your personal life.  Originally posted on 7/20/2009.]]></description>
+            <itunes:subtitle><![CDATA[In this episode, our hosts discuss how improv helps other types of creative endeavors as well as your personal life.  Originally posted on 7/20/2009.]]></itunes:subtitle>
+                                                            <content:encoded><![CDATA[<p>In this episode, our hosts discuss how improv helps other types of creative endeavors as well as your personal life.  Originally posted on 7/20/2009.</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p>In this episode, our hosts discuss how improv helps other types of creative endeavors as well as your personal life.  Originally posted on 7/20/2009.</p>
+]]></itunes:summary>
+            <googleplay:description><![CDATA[<p>In this episode, our hosts discuss how improv helps other types of creative endeavors as well as your personal life.  Originally posted on 7/20/2009.</p>
+]]></googleplay:description>
+                        <itunes:image href="http://steelcityimprov.com/wp-content/uploads/2016/04/Liz-and-Justin.jpg"></itunes:image>
+            <googleplay:image href="http://steelcityimprov.com/wp-content/uploads/2016/04/Liz-and-Justin.jpg"></googleplay:image>
+                        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/steelcityimprov.com/podcast-download/5216/improvised-new-york-episode-4-improv-life.mp3" length="32378321" type="audio/mpeg"></enclosure>
+            <itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>Yes</googleplay:explicit>
+            <itunes:block>no</itunes:block>
+            <googleplay:block>no</googleplay:block>
+            <itunes:duration>1:07:55</itunes:duration>
+            <itunes:author>Justin Zell</itunes:author>
+		</item>
+		<item>
+            <title>Improvised New York &#8211; Episode 3 &#8211; Short Form vs. Long Form</title>
+            <link>http://steelcityimprov.com/podcast/improvised-new-york-episode-3-short-form-vs-long-form/</link>
+            <pubDate>Tue, 26 Apr 2016 04:10:31 +0000</pubDate>
+            <dc:creator>Justin Zell</dc:creator>
+            <guid isPermaLink="false">http://steelcityimprov.com/?post_type=podcast&#038;p=5215</guid>
+            <description><![CDATA[In this episode, we discuss Short Form vs Long Form Improvisation, energy drinks throughout history and scavenger hunts in the afterlife!  Originally posted on 7/15/2009.]]></description>
+            <itunes:subtitle><![CDATA[In this episode, we discuss Short Form vs Long Form Improvisation, energy drinks throughout history and scavenger hunts in the afterlife!  Originally posted on 7/15/2009.]]></itunes:subtitle>
+                                                            <content:encoded><![CDATA[<p>In this episode, we discuss Short Form vs Long Form Improvisation, energy drinks throughout history and scavenger hunts in the afterlife!  Originally posted on 7/15/2009.</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p>In this episode, we discuss Short Form vs Long Form Improvisation, energy drinks throughout history and scavenger hunts in the afterlife!  Originally posted on 7/15/2009.</p>
+]]></itunes:summary>
+            <googleplay:description><![CDATA[<p>In this episode, we discuss Short Form vs Long Form Improvisation, energy drinks throughout history and scavenger hunts in the afterlife!  Originally posted on 7/15/2009.</p>
+]]></googleplay:description>
+                        <itunes:image href="http://steelcityimprov.com/wp-content/uploads/2016/04/Liz-and-Justin.jpg"></itunes:image>
+            <googleplay:image href="http://steelcityimprov.com/wp-content/uploads/2016/04/Liz-and-Justin.jpg"></googleplay:image>
+                        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/steelcityimprov.com/podcast-download/5215/improvised-new-york-episode-3-short-form-vs-long-form.mp3" length="27125706" type="audio/mpeg"></enclosure>
+            <itunes:explicit>clean</itunes:explicit>
+            <googleplay:explicit>No</googleplay:explicit>
+            <itunes:block>no</itunes:block>
+            <googleplay:block>no</googleplay:block>
+            <itunes:duration>56:56</itunes:duration>
+            <itunes:author>Justin Zell</itunes:author>
+		</item>
+		<item>
+            <title>Improvised New York &#8211; Episode 2 &#8211; &#8220;I had a little wine with dinner&#8221;</title>
+            <link>http://steelcityimprov.com/podcast/episode-2-little-wine-dinner/</link>
+            <pubDate>Tue, 19 Apr 2016 16:31:23 +0000</pubDate>
+            <dc:creator>Justin Zell</dc:creator>
+            <guid isPermaLink="false">http://steelcityimprov.com/?post_type=podcast&#038;p=5211</guid>
+            <description><![CDATA[In this episode, our hosts discuss anniversaries and birthdays, shows that we saw, and holding your liquor.  Originally posted on 6/23/2009.]]></description>
+            <itunes:subtitle><![CDATA[In this episode, our hosts discuss anniversaries and birthdays, shows that we saw, and holding your liquor.  Originally posted on 6/23/2009.]]></itunes:subtitle>
+                                                            <content:encoded><![CDATA[<p>In this episode, our hosts discuss anniversaries and birthdays, shows that we saw, and holding your liquor.  Originally posted on 6/23/2009.</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p>In this episode, our hosts discuss anniversaries and birthdays, shows that we saw, and holding your liquor.  Originally posted on 6/23/2009.</p>
+]]></itunes:summary>
+            <googleplay:description><![CDATA[<p>In this episode, our hosts discuss anniversaries and birthdays, shows that we saw, and holding your liquor.  Originally posted on 6/23/2009.</p>
+]]></googleplay:description>
+                        <itunes:image href="http://steelcityimprov.com/wp-content/uploads/2016/04/Liz-and-Justin.jpg"></itunes:image>
+            <googleplay:image href="http://steelcityimprov.com/wp-content/uploads/2016/04/Liz-and-Justin.jpg"></googleplay:image>
+                        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/steelcityimprov.com/podcast-download/5211/episode-2-little-wine-dinner.mp3" length="37144127" type="audio/mpeg"></enclosure>
+            <itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>Yes</googleplay:explicit>
+            <itunes:block>no</itunes:block>
+            <googleplay:block>no</googleplay:block>
+            <itunes:duration>1:17:42</itunes:duration>
+            <itunes:author>Justin Zell</itunes:author>
+		</item>
+		<item>
+            <title>Improvised New York &#8211; Episode 1 &#8211; &#8220;Our Maiden Voyage&#8221;</title>
+            <link>http://steelcityimprov.com/podcast/improvised-new-york-episode-1/</link>
+            <pubDate>Sat, 16 Apr 2016 20:08:01 +0000</pubDate>
+            <dc:creator>Justin Zell</dc:creator>
+            <guid isPermaLink="false">http://steelcityimprov.com/?post_type=podcast&#038;p=5196</guid>
+            <description><![CDATA[Elizabeth Quinn and Justin Zell chat about their origin stories in improvisation and this podcast. Originally posted on 6/18/2009.]]></description>
+            <itunes:subtitle><![CDATA[Elizabeth Quinn and Justin Zell chat about their origin stories in improvisation and this podcast. Originally posted on 6/18/2009.]]></itunes:subtitle>
+                                                            <content:encoded><![CDATA[<p>Elizabeth Quinn and Justin Zell chat about their origin stories in improvisation and this podcast. Originally posted on 6/18/2009.</p>
+]]></content:encoded>
+            <itunes:summary><![CDATA[<p>Elizabeth Quinn and Justin Zell chat about their origin stories in improvisation and this podcast. Originally posted on 6/18/2009.</p>
+]]></itunes:summary>
+            <googleplay:description><![CDATA[<p>Elizabeth Quinn and Justin Zell chat about their origin stories in improvisation and this podcast. Originally posted on 6/18/2009.</p>
+]]></googleplay:description>
+                        <itunes:image href="http://steelcityimprov.com/wp-content/uploads/2016/04/Liz-and-Justin.jpg"></itunes:image>
+            <googleplay:image href="http://steelcityimprov.com/wp-content/uploads/2016/04/Liz-and-Justin.jpg"></googleplay:image>
+                        <enclosure url="http://www.podtrac.com/pts/redirect.mp3/steelcityimprov.com/podcast-download/5196/improvised-new-york-episode-1.mp3" length="34557363" type="audio/mpeg"></enclosure>
+            <itunes:explicit>yes</itunes:explicit>
+            <googleplay:explicit>Yes</googleplay:explicit>
+            <itunes:block>no</itunes:block>
+            <googleplay:block>no</googleplay:block>
+            <itunes:duration>1:12:26</itunes:duration>
+            <itunes:author>Justin Zell</itunes:author>
+		</item>
+	</channel>
+</rss>

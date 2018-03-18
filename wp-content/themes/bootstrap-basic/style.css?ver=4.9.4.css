@@ -1,0 +1,720 @@
+/*
+Theme Name: Bootstrap Basic
+Theme URI: 
+Author: Vee Winch
+Author URI: http://okvee.net
+Description: Bootstrap v.3 basic theme for developers to build their new theme very fast and easy.
+Version: 1.0.3.3
+License: MIT
+License URI: http://opensource.org/licenses/MIT
+Text Domain: bootstrap-basic
+Domain Path: /languages/
+Tags: white, gray, light, one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-menu, featured-images, front-page-post-form, post-formats, threaded-comments, translation-ready
+
+This theme built with Twitter Bootstrap v.3. It is basic theme with basic style for build new theme with Bootstrap.
+
+*/
+
+
+/*
+Required WordPress CSS
+*/
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+.bypostauthor {
+}
+.gallery-caption {
+}
+.sticky {
+}
+.wp-caption {
+	border: 1px solid #ccc;
+	margin-bottom: 1.5em;
+	max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin: 1.2% auto 0;
+	max-width: 98%;
+}
+.wp-caption-text {
+	text-align: center;
+}
+.wp-caption .wp-caption-text {
+	margin: 0.8075em 0;
+}
+
+.row-with-vspace {
+	margin-bottom: 15px;
+}
+
+/**** Move these into real theme CSS *****/
+
+.page-container {
+	margin-top: 15px;
+}
+
+.home-feed {
+	margin-top: 15px;
+}
+
+.home-feed h1.h4 {
+	font-size: 20px;
+	margin-top: 0;
+	padding-top: 0;
+}
+
+.home-feed p.byline {
+	margin-bottom: 20px;
+}
+
+.home-feed a.button.last {
+	display: block;
+    font-weight: bold;
+    padding: 25px 0 0;
+    text-align: right;
+}
+
+
+/**** Fonts, Heading Styles *******/
+
+a {color: #008080;}
+a:hover {
+	text-decoration: none;
+	color: #002033;
+}
+
+p.byline {
+	text-align: right;
+}
+
+h1 {
+	color: #444;
+}
+
+.pull-quote {
+	color: #000;
+    float: right;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 25px 0 25px 25px;
+    width: 40%;
+    border-left: 5px solid teal;
+    margin-left: 15px;
+}
+
+#sidebar-left .widget .widget-title, #sidebar-right .widget .widget-title {
+	font-size: 30px;
+}
+
+#main-column .attachment .entry-title, #main-column .post .entry-title, #main-column .page .entry-title {
+	color: #444;
+	font-size: 45px;
+	}
+
+h2 span {text-decoration: none !important;}
+
+h2, .h2, h3, .h3 {
+	font-size: 24px;
+	color: #008080;
+	text-align: left !important;
+	text-decoration: none !important;
+	text-transform: capitalize;
+}
+
+.scit-footer h3 {
+	text-transform: capitalize;
+}
+
+
+h3.section-title {
+	background: #002033 none repeat scroll 0 0;
+    border-top: 4px solid #00b2b4;
+    color: #fff;
+    font-size: 1.4em;
+    font-weight: 500;
+    letter-spacing: 2px;
+    padding: 3px 5px 5px 10px;
+    text-transform: uppercase;
+    
+}
+
+.title-wrapper {clear: both;}
+
+ul.menu {
+	padding-left: 0 !important;
+}
+
+li.page_item {
+    font-size: 16px;
+    list-style: outside none none;
+    padding: 2px 0;
+}
+
+li.page_item ul {
+	margin-left: 15px;
+	border-left: 2px solid #444;
+}
+
+li.page_item a {
+	text-transform: uppercase;
+}
+
+li.page_item ul li {
+	border-top: 0;
+	margin-left: 5px;
+}
+
+
+
+img.rss-icon {
+	float:right;
+	margin: 8px 10px 0;
+}
+
+.class_intro {display: none;}
+
+
+
+body {
+	background: #002033;
+}
+
+.page-container {
+	background: #fff;
+}
+
+.top-global-links {
+	height: 30px;
+}
+
+.top-global-links-wrapper {
+	background: #002033;
+	margin-top: 15px;
+	
+}
+
+.global-text {
+	line-height: 30px;
+}
+
+/******** Cancel out Bootstrap margin 10px bottom for this *********/
+
+.global-text {
+	padding-right: 15px;
+}
+
+.global-text-social {
+	padding-top: 3px;
+}
+
+.global-text-social img {
+	margin-left: 5px;
+}
+
+.global-links {
+	text-align: right;
+}
+
+.global-links ul {
+	margin-bottom: 0;
+	padding-left: 10px;
+}
+
+.global-links li {
+	display: inline;
+}
+
+.global-links li a {
+	color: #fff;
+	padding: 0 18px 0 5px;
+}
+
+.global-links li:first-child a{
+	border-right: 1px solid #eee;
+	padding-right: 10px
+}
+
+/********* SCIT Logo ********/
+
+.site-title {
+	margin-top: -35px;
+	z-index: 100;
+	padding-left: 35px;
+	
+}
+
+.site-title img {
+	max-width: 235px;
+	
+}
+
+
+/********* Navigation **********/
+
+.navigation-wrapper {
+	text-align: right;
+	margin-top: 32px;
+}
+
+.navbar ul {
+	padding-left: 0;
+	text-align: right;
+}
+
+.navbar ul li {
+	display: inline;
+	padding: 0 15px;
+}
+
+.navbar ul li:last-child {
+	padding-right: 0;
+}
+
+.navbar ul li a {
+	text-transform: uppercase;
+	font-weight: 500;
+	letter-spacing: 1px;
+}
+
+.navbar-default {
+	background: none;
+	border: none;
+	box-shadow: none;
+}
+
+.navbar-primary-collapse {
+	text-align: left;
+}
+
+
+.navbar-primary-collapse.in ul {
+	padding-bottom: 10px;
+}
+
+/*********** Homepage Carousel ***********/
+
+.smooth_slider {
+	display: inline-block;
+	margin-top: -65px;
+	padding: 0 !important;
+	min-height: 1px !important;
+}
+
+#smooth_slider_1 {
+	max-height: 550px !important;
+}
+
+.smooth_slider h2, .smooth_slider span, .smooth_slider p.smooth_more {
+	display: none !important;
+}
+
+.smooth_slider .smooth_nav {
+    bottom: 0;
+    display: block;
+    margin: 10px 48.7% !important;
+    position: absolute;
+    text-align: center;
+    width: 30px;
+    }
+    
+    
+/**** new carousel to fix stuff ********/
+
+
+.wonderpluginslider-container {margin-top: -60px !important;}
+    
+    
+        
+#main-column .post, #main-column .page {
+    border: none;
+    }
+    
+#sidebar-left .widget, #sidebar-right .widget {
+	border: none;
+}
+
+#sidebar-left .widget ul, #sidebar-right .widget ul {
+	padding-left: 0;
+}
+
+.comments-area {
+	display: none;
+}
+
+
+/** News Widget on Homepage **/
+
+.home .attachment-post-thumbnail {
+	width: 75px;
+	height: 75px;
+	padding: 0 10px 10px 0;
+	float: left;
+}
+
+.news-item {
+	clear: both;
+}
+
+/***** SCIT Team Archives *********/
+
+.archive article {
+	padding-bottom: 20px;
+}
+
+.scit_team_archives article img, .scit_performer_archives article img, .tax-scit_performer-category article img, .single article img {
+	float: left;
+	margin-right: 15px;
+	width: 190px;
+	padding: 1px;
+	border: 1px solid #ccc;
+}
+
+.scit_team_archives article, .scit_performer_archives article img, .tax-scit_performer-category article {
+	border-bottom: 1px solid #ccc;
+	
+}
+
+
+.single-scit_team article img {
+	float: left;
+	margin: 0 15px 0 0;
+}
+
+/************ SCIT Performers Archives **********/
+
+.post-type-archive-scit_performer article {
+	display: table-cell;
+	padding-bottom: 20px;
+	text-align: center;
+	height: 265px;
+}
+
+.post-type-archive-scit_performer article img {
+	margin-right: 0;
+}
+
+.post-type-archive-scit_performer .entry-content, .term-instructors .entry-content, .term-staff .entry-content {
+	display: none;
+}
+
+.post-type-archive-scit_performer h4.entry-title {
+	text-align: center;
+	display: block;
+	clear: both;
+}
+
+
+/********* SCIT Teams Archives ****************/
+.post-type-archive-scit_team article {
+	display: table-cell;
+	padding-bottom: 20px;
+	text-align: center;
+	height: 265px;
+}
+
+.post-type-archive-scit_team article img {
+	margin-right: 0;
+}
+
+.post-type-archive-scit_team .entry-content {
+	display: none;
+}
+
+.post-type-archive-scit_team h4.entry-title {
+	text-align: center;
+	display: block;
+	clear: both;
+}
+
+
+
+
+/***** Right Column Widgets **********/
+
+aside.widget_recent_entries li {
+	list-style: none;
+	padding: 5px 0;
+}
+    
+/***** Footer ******/
+
+.scit-footer {
+	background:  #002033;
+	color: #fff;
+	overflow: hidden;
+	
+	min-height: 215px;
+	}
+
+.page-template-page-home .scit-footer {
+	margin-bottom: 15px;
+}
+	
+img.gmap {
+	width: 175px;
+}
+
+.scit-footer li {
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+.scit-footer ul {
+	padding-left: 0;
+}
+
+.scit-footer .social-media-footer li img {
+	float: left;
+	margin-right: 10px;
+}
+
+.scit-footer a {
+	color: #ccc;
+}
+    
+/********** Homepage Specifics ************/
+
+.home-feed {
+	padding: 0 10px;
+}
+
+.courses-home {
+	text-align: left;
+}
+
+.courses-home a.button.last {
+	display: none;
+}
+
+
+.sc_widget_container li {
+	background: #fff !important;
+}
+
+.sc_widget_container li a {
+	color: teal !important;
+}
+
+a.sc_widget_footer {
+	display: none;
+}
+
+.sc_widget_event_date {
+	height: 50px;
+}
+
+.sc_widget_container li {
+	font-size: 14px;
+}
+
+.sc_widget_event_image {
+	float: right;
+}
+
+li.sc_widget_last_row {
+	text-align: right !important;
+}
+
+/******* Courses Section *********/
+
+
+.courses-home h2 {
+	display: none;
+}
+
+.courses-home table {
+	width: 100%;
+}
+
+
+
+
+/********* Secondary Page Specifics ************/
+
+#smooth_slider_2_nav {display: none;}
+#smooth_slider_2 {
+	max-height: 300px !important;
+}
+
+.content-wrapper {
+	border-top: 10px solid #008080;
+}
+
+/****** Events Page *************/
+
+.sc_widget_title {
+	display: none !important;
+}
+
+.sc_widget_event_date {
+	height: 60px !important;
+	width: 60px !important;
+	padding-top: 10px !important;
+	border-radius: 0 !important;
+	
+}
+
+.sc_widget_event_image {
+	float: right !important;
+	border-radius: 0 !important;
+	height: 60px !important;
+	width: 60px !important;
+}
+
+.sc_widget_event_container a {
+	font-size: 20px;
+}
+
+.sc_widget_container li {
+	padding: 15px 0 !important;
+}
+
+
+/********** WooCommerce ***********/
+
+.woocommerce .h1 {
+	font-size: 18px;
+}
+
+.woocommerce #content div.product div.summary, .woocommerce div.product div.summary, .woocommerce-page #content div.product div.summary, .woocommerce-page div.product div.summary {
+	float: left;
+	width: 100%;
+	margin: 10px 0 0;
+}
+
+.woocommerce .site-main {
+	margin-top: 15px;
+}
+
+.woocommerce .woocommerce-message::before, .woocommerce .woocommerce-error::before, .woocommerce .woocommerce-info::before, .woocommerce-page .woocommerce-message::before, .woocommerce-page .woocommerce-error::before, .woocommerce-page .woocommerce-info::before {
+	line-height: 0 !important;
+}
+
+
+.woocommerce-account .simple-section-nav {
+	display: none;
+}
+
+
+/******** Start fixing the navigation dimensions as scale takes place ********/
+
+@media screen and (max-width: 1200px) {
+	#smooth_slider_2 {
+	max-height: 250px !important;
+}
+
+}
+
+@media screen and (max-width: 992px) {
+	
+	.site-title img {
+		max-width: 175px;
+		
+	}
+	
+	.navigation-wrapper {
+		margin-top: 18px;
+	}
+	
+	.navbar ul li a {
+		font-size: 12px;
+	}
+	
+	.navbar ul li {
+		padding: 0 7px;
+	}
+	
+	.wonderpluginslider-container {
+		margin-top: -50px !important;
+	}
+
+	
+	
+	
+	
+}
+
+@media screen and (max-width: 767px) {
+	
+	.navigation-wrapper {
+		margin-top: 5px;
+	}
+	
+	.sc_widget_event_container a {
+		font-size: 16px;
+	}
+	
+	
+}
+
+@media screen and (max-width: 599px) {
+	.global-text-social {display: none;}
+	.sc_widget_event_image {display: none !important;}
+}
+
+@media screen and (max-width: 480px) {
+
+	.site-title img {
+		max-width: 145px;
+	}
+	
+	.global-links ul {
+		display: none;
+	}
+	
+	.wonderpluginslider-container {
+		display: none !important;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
